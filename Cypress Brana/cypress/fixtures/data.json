@@ -1,0 +1,26 @@
+{
+    "login" : {
+        "email" : "branatest@test.com",
+        "password" : "bb12345678",
+        "emailWithoutMonkey" : "branatesttest.com",
+        "passwordLessThan8" : "12345",
+        "wrongEmail" : "branabrana@test.com",
+        "onlyLetterPassword" : "aaaaaaaaaaa" 
+    },
+
+    "create": {
+        "firstName" : "Brana",
+        "lastName" : "Miladinovic",
+        "url" : "https://cdn.pixabay.com/photo/2015/09/09/16/05/forest-931706_960_720.jpg",
+        "firstNameWithOneLetter" : "aa"
+    },
+    "createGradebook": {
+        "gradebookTitle" : "Brana Gradebook",
+        "gradebookProfesor" : "Brana Miladinovic"
+    }
+
+
+
+
+
+}

@@ -1,0 +1,18 @@
+{
+    "createProfesor" : {
+        "create" : "#navbardrop",
+        "create2" : "[href='/create-professor']",
+        "firstName" : "#firstName",
+        "lastName" : "#lastName",
+        "image" : ".mb-2 > .btn",
+        "imageUrl" : ".form-control",
+        "button" : "[name='submit']"
+    },
+    "createGradebook" : {
+        "createGrad" : "[href='/create-gradebook']",
+        "titleGradebook" : "#title",
+        "profesforGradebook" : "#professor",
+        "button" : ".btn"
+    }
+
+}
